@@ -1,0 +1,276 @@
+[{
+  "_id": {
+    "$oid": "64e77dde3267f8642d6221d1"
+  },
+  "model": "La Voiture Noire",
+  "brand": "Bugatti",
+  "price": "$18 million",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "261mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/284/915/716/bugatti-bugatti-la-voiture-noire-black-car-car-sport-car-hd-wallpaper-10500935e0241d972966604a017e3ed6.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/177/1000/929/bugatti-bugatti-la-voiture-noire-hd-wallpaper-6816ade860402cf880bc51fe7852f4aa.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/832/380/906/bugatti-bugatti-la-voiture-noire-hd-wallpaper-0826bd681020bc5800dc51ae2882341a.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/803/674/489/bugatti-la-voiture-noire-car-vehicle-black-cars-hd-wallpaper-578f12d48f65afaa9f029461d1a1e775.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "7-speed Dual-Clutch Automatic",
+  "lsd": "No",
+  "other": "Carbon fiber monocoque chassis, Quad-turbo W16 engine, Exclusive and bespoke design.",
+  "engine": "Quad-Turbocharged W16"
+},
+{
+  "_id": {
+    "$oid": "64e77f883267f8642d6221d3"
+  },
+  "model": "Huayra BC",
+  "brand": "Pagani",
+  "price": "$3 million",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "238mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/974/964/941/pagani-pagani-huayra-roadster-bc-car-convertible-silver-car-hd-wallpaper-38962d68d090fcf8307c41cec8c2042a.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/192/429/72/pagani-pagani-huayra-roadster-bc-car-convertible-silver-car-hd-wallpaper-38c6fd98a0c0fc48d02c21ee9882946a.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/479/992/16/pagani-pagani-huayra-roadster-bc-car-convertible-silver-car-hd-wallpaper-f8f62de820d0acc830dc217e48f2048a.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/479/626/511/pagani-pagani-huayra-roadster-bc-car-convertible-silver-car-hd-wallpaper-28368d48d0907cb8101c512e5832c4ba.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "7-speed Automated Manual",
+  "lsd": "Yes",
+  "other": "Carbon-titanium monocoque, Active aerodynamics, Artisanal interior craftsmanship.",
+  "engine": "Twin-Turbocharged V12"
+},
+{
+  "_id": {
+    "$oid": "64e7808c3267f8642d6221d5"
+  },
+  "model": "SF90 Stradale",
+  "brand": "Ferrari",
+  "price": "$6.7 million",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "217mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/532/740/887/ferrari-ferrari-sf90-stradale-car-red-car-sport-car-hd-wallpaper-603ce2493bd167542afef25b3be08c14.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/929/896/914/ferrari-ferrari-sf90-stradale-car-red-car-sport-car-hd-wallpaper-37efb2643fb55f7aff520491b16127d5.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/979/292/865/ferrari-sf90-stradale-race-cars-racing-hd-wallpaper-31ea37533fc16d436335728889423db2.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/834/224/861/ferrari-sf90-stradale-race-cars-racing-hd-wallpaper-4c259bf98dc91d1d939a399b8dbbc8e2.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "7-speed Dual-Clutch Automatic",
+  "lsd": "No",
+  "other": "Hybrid powertrain, Limited production, Open-top design.",
+  "engine": "Hybrid V12"
+},
+{
+  "_id": {
+    "$oid": "64e781d13267f8642d6221d7"
+  },
+  "model": "Aventador SVJ",
+  "brand": "Lambhorgini",
+  "price": "$4.5 million",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "220mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/674/961/285/lamborghini-lamborghini-aventador-lp750-4-superveloce-lamborghini-aventador-lp750-4-sv-lamborghini-aventador-wallpaper-52b1e2e09d267efb1a0842159008a9a2.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/110/580/971/lamborghini-lamborghini-aventador-lp750-4-superveloce-lamborghini-aventador-lp750-4-sv-lamborghini-aventador-wallpaper-42c1b2808d662e0baac842052098f9b2.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/131/68/11/lamborghini-lamborghini-aventador-lamborghini-aventador-lp750-4-superveloce-lamborghini-aventador-lp750-4-sv-wallpaper-b24182e0cd96eecbfa88124560d8d962.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/667/593/94/lamborghini-aventador-lp750-4-sv-car-red-cars-wallpaper-a9a0e85dd1ca8dbb46c7180f3051a6ad.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "7-speed Automated Manual",
+  "lsd": "Yes",
+  "other": "Extreme aerodynamics, Limited production, Carbon-fiber body.",
+  "engine": "V12"
+},
+{
+  "_id": {
+    "$oid": "64e78a8282f654752a500aa9"
+  },
+  "model": "918 Spyder",
+  "brand": "Porsche",
+  "price": "$845,000",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "214mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/833/863/666/concept-lights-porsche-the-concept-wallpaper-ce6ff1ed1ad2753b686aaa59e03a1fb3.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/917/713/192/porsche-918-spyder-concept-supercar-back-view-wallpaper-b4c9d3f36945a9aba648d7602be2895d.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/166/709/277/car-silver-cars-vehicle-porsche-918-spyder-wallpaper-7607279b26886d2d0a389f73527240ff.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/533/205/150/porsche-918-spyder-wallpaper-a2719200cdb6aeeb2a6882c530a8c922.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "7-speed Dual-Clutch Automatic",
+  "lsd": "Yes",
+  "other": "Hybrid powertrain, Active aerodynamics, Limited production.",
+  "engine": "Hybrid V8"
+},
+{
+  "_id": {
+    "$oid": "64e78bdc82f654752a500aab"
+  },
+  "model": "Speedtail",
+  "brand": "Mclaren",
+  "price": "$2.3 million",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "250mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/850/983/808/mclaren-speedtail-hypercar-hd-wallpaper-f200636aa2205c002845b32fd2c0a8a8.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/435/589/145/mclaren-mclaren-speedtail-car-coupe-wallpaper-0950b80d91bacd1be617786f5041a62d.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/107/647/715/mclaren-speedtail-hypercar-hd-wallpaper-729093ca5240dce028f5330f82d068e8.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/89/769/138/mclaren-speedtail-hypercar-hd-wallpaper-e59f2330b89967d2851fbf0e0c00c87e.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "7-speed Dual-Clutch Automatic",
+  "lsd": "No",
+  "other": "Center seating position, Hybrid powertrain, Aerodynamically efficient design.",
+  "engine": "Hybrid V8"
+},
+{
+  "_id": {
+    "$oid": "64e78dff82f654752a500aad"
+  },
+  "model": "MC20",
+  "brand": "Maserati",
+  "price": "$150,000",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "202mph ",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/922/881/267/maserati-mc20-maserati-white-cars-shadow-car-hd-wallpaper-28f63d782080ac98f08cb1eeb812645a.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/693/830/573/maserati-mc20-maserati-car-vehicle-white-cars-hd-wallpaper-88f6fd0840b0bca8f08cc16ee852040a.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/554/53/243/maserati-mc20-maserati-car-vehicle-white-cars-hd-wallpaper-48f68df820b0dcb870bc015e88e274da.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/722/481/296/maserati-mc20-maserati-car-vehicle-white-cars-hd-wallpaper-8836dd6830503c7890ec614e7842d42a.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "8-speed Dual-Clutch Automatic",
+  "lsd": "No",
+  "other": "Mid-engine layout for balanced performance, Lightweight construction and aerodynamic design.",
+  "engine": "Twin-Turbocharged V6"
+},
+{
+  "_id": {
+    "$oid": "64e78fb282f654752a500aaf"
+  },
+  "model": "Zonda",
+  "brand": "Pagani",
+  "price": "$3 million",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "200mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/38/734/481/cinque-orange-pagani-zonda-wallpaper-ad6518cdd0c80a6c09d07d0539df9c2b.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/558/639/784/supercars-pagani-zonda-r-car-black-cars-wallpaper-09f038cd211afd1b3607f88fd041361d.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/320/719/788/pagani-pagani-zonda-car-pagani-zonda-r-wallpaper-55df83d038395792557f2f1e9c30f8ce.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/232/594/512/pagani-zonda-r-gray-sports-car-wallpaper-627132004db6ee5bfa98b2f5407889d2.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "6-speed Manual or Automated Manual",
+  "lsd": "Yes",
+  "other": "Exquisite craftsmanship, Bespoke design, Limited production runs.",
+  "engine": "Naturally Aspirated V12"
+},
+{
+  "_id": {
+    "$oid": "64e790ed82f654752a500ab1"
+  },
+  "model": "Enzo",
+  "brand": "Ferrari",
+  "price": "$2.6 million",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "217mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/227/341/167/gemballa-mig-u1-ferrari-enzo-grey-sports-car-wallpaper-820132500d069e2b1ab8e285b0c80922.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/290/753/296/2010-ferrari-gemballa-mig-u1-wallpaper-254fc310f859176205bfafee5c9028ce.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/1016/609/230/gemballa-mig-u1-wallpaper-323102704da6be2b2ae8d28580e87942.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/901/651/642/gemballa-mig-u1-ferrari-enzo-3-white-and-black-sports-car-wallpaper-4231b220bd062edb0a08f295c0884922.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "6-speed Semi-Automatic",
+  "lsd": "No",
+  "other": "Carbon-fiber construction, Formula 1 technology influence, Iconic styling.",
+  "engine": "Naturally Aspirated V12"
+},
+{
+  "_id": {
+    "$oid": "64e7922e82f654752a500ab3"
+  },
+  "model": "R8 V10 Plus",
+  "brand": "Audi",
+  "price": "$200,000",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "205mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/260/686/451/audi-r8-v10-plus-2015-audi-r8-competition-hd-wallpaper-545cd428b6538472716db1bbd71364f6.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/301/970/358/audi-r8-car-super-car-vehicle-wallpaper-20100519df96ee83e80f87d63b7624c8.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/136/521/180/2016-audi-r8-v10-wallpaper-c32a433a38d59cfde8220e43c1284221.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/928/120/1013/audi-r8-v10-rws-audi-r8-v10-plus-coupe-15-hd-wallpaper-938a335a78057c8d98e2ae63612882d1.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "7-speed Dual-Clutch Automatic",
+  "lsd": "Yes",
+  "other": "Quattro all-wheel drive, Lightweight construction, High-revving V10 engine.",
+  "engine": "Naturally Aspirated V10"
+},
+{
+  "_id": {
+    "$oid": "64e7949e82f654752a500ab5"
+  },
+  "model": "720s",
+  "brand": "Mclaren",
+  "price": "$299,000",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "212mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/225/360/19/mclaren-720s-mclaren-super-car-wallpaper-d970a84dc1fa3d0b76d7280fa011668d.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/279/2/537/mclaren-mclaren-720s-car-supercar-wallpaper-a211c2d06dc6aefb5aa88205407839b2.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/679/341/216/mclaren-mclaren-720s-car-supercar-wallpaper-92a192e0fd260eabaad872055058f9d2.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/457/903/604/mclaren-mclaren-720s-car-sport-car-wallpaper-f940587df1da8dab96d708dfc07176fd.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "7-speed Dual-Clutch Automatic",
+  "lsd": "Yes",
+  "other": "Cutting-edge aerodynamics and lightweight construction, Distinctive dihedral doors and futuristic design",
+  "engine": "Twin-Turbocharged V8"
+},
+{
+  "_id": {
+    "$oid": "64e9d86113410d91f2de4c61"
+  },
+  "model": "812 Superfast",
+  "brand": "Ferrari",
+  "price": "$340,000",
+  "category": [
+    "Sports",
+    "Luxury"
+  ],
+  "topspeed": "211mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/83/590/352/ferrari-ferrari-812-superfast-car-supercar-wallpaper-026142d06db6eefb0a2892f5a0e86982.jpg",
+  "altPhotoThree": "https://r4.wallpaperflare.com/wallpaper/298/952/1019/4k-ferrari-812-superfast-wallpaper-4816dd982010cc78509c618ec832a47a.jpg",
+  "altPhotoTwo": "https://r4.wallpaperflare.com/wallpaper/172/793/245/812-ferrari-superfast-wallpaper-1b0b08ba530fd253d23f1328880b9c4c.jpg",
+  "altPhotoOne": "https://r4.wallpaperflare.com/wallpaper/38/220/863/ferrari-812-superfast-pc-desktop-hd-wallpaper-5d6c87d3dffa75413a18f7af6ffe4b67.jpg",
+  "abs": "Yes",
+  "fuel": "Gasoline",
+  "transmission": "7-speed Dual-Clutch Automatic",
+  "lsd": "Yes",
+  "other": "Front-engine, rear-wheel-drive grand tourer, Striking design and powerful V12 engine",
+  "engine": "Naturally Aspirated V12"
+}]

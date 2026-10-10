@@ -1,0 +1,466 @@
+[{
+  "_id": {
+    "$oid": "64e88afdb1e43276411f47f2"
+  },
+  "model": "Camry",
+  "brand": "Toyota",
+  "price": 25000,
+  "rentPrice": 250,
+  "category": [
+    "Sedan"
+  ],
+  "topspeed": "130mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/1018/608/928/2018-toyota-camry-hybrid-4k-wallpaper-5f5c52af3d893578c7add294f4e33090.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/878/398/557/toyota-camry-4k-macbook-hd-wallpaper-760acc1422b87dc638437bb2788abde4.jpg",
+  "cylinder": "2.5 to 3.5litres",
+  "fuel": "Gasoline",
+  "abs": "No",
+  "mileage": "30mpg"
+},
+{
+  "_id": {
+    "$oid": "64e88c13b1e43276411f47f4"
+  },
+  "model": "Rav4",
+  "brand": "Toyota",
+  "price": 26000,
+  "rentPrice": 260,
+  "category": [
+    "Suv"
+  ],
+  "topspeed": "120mph",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/187/637/306/toyota-rav4-2019-1600-0c-wallpaper-51c06789d66cc39913eb72fb46de65c5.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/322/772/838/2019-hybrid-rav4-toyota-wallpaper-2639964d0a6267d4d2eb86a4a849c65a.jpg",
+  "cylinder": "2.5 to 2.7litres",
+  "fuel": "Hybrid",
+  "abs": "Yes",
+  "mileage": "32mpg"
+},
+{
+  "_id": {
+    "$oid": "64e88dccb1e43276411f47f6"
+  },
+  "model": "Supra",
+  "brand": "Toyota",
+  "category": [
+    "Sports"
+  ],
+  "price": 43000,
+  "rentPrice": 430,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/604/242/361/toyota-supra-2020-gr-above-a90-hd-wallpaper-d8b8c3c689236d06dc7262ced0b5d966.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/962/883/624/toyota-supra-2020-gr-above-a90-hd-wallpaper-386813a639f3bd369c32b2ee30d5b9a6.jpg",
+  "mileage": "30mpg",
+  "topspeed": "175mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "3.0litres"
+},
+{
+  "_id": {
+    "$oid": "64e88e96b1e43276411f47f8"
+  },
+  "model": "Subaru",
+  "brand": "Toyota",
+  "category": [
+    "Coupe"
+  ],
+  "price": 27000,
+  "rentPrice": 270,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/10/983/610/khyzyl-saleem-car-vehicle-artwork-wallpaper-68e925630704b8d85f805c49f161962c.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/10/983/610/khyzyl-saleem-car-vehicle-artwork-wallpaper-68e925630704b8d85f805c49f161962c.jpg",
+  "mileage": "32mpg",
+  "topspeed": "140mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "2.4litres"
+},
+{
+  "_id": {
+    "$oid": "64e89003b1e43276411f47fa"
+  },
+  "model": "370Z",
+  "brand": "Nissan",
+  "category": [
+    "Coupe",
+    "Sports"
+  ],
+  "price": 40000,
+  "rentPrice": 400,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/640/623/634/nissan-370z-nismo-roadster-download-of-hd-wallpaper-ee14a41f7c0aa680ecc8ed30956407f8.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/13/950/470/nissan-nissan-370z-nismo-car-concept-car-wallpaper-49f0d89dc12a7dbb06e7281f40f1164d.jpg",
+  "mileage": "25mpg",
+  "topspeed": "160mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "3.7litres"
+},
+{
+  "_id": {
+    "$oid": "64e8911eb1e43276411f47fc"
+  },
+  "model": "GT-R",
+  "brand": "Nissan",
+  "category": [
+    "Sports"
+  ],
+  "price": 113000,
+  "rentPrice": 1130,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/475/549/134/orange-cars-digital-art-car-nissan-nissan-gt-r-hd-wallpaper-a9c0f87de10a8dcbb6a7c85fc081a6cd.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/298/81/191/artwork-car-vehicle-digital-art-orange-cars-hd-wallpaper-f920a82dc12aad7b16f7684f30e1361d.jpg",
+  "mileage": "23mpg",
+  "topspeed": "200mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "3.8litres"
+},
+{
+  "_id": {
+    "$oid": "64e8923ab1e43276411f47fe"
+  },
+  "model": "Altima",
+  "brand": "Nissan",
+  "category": [
+    "Sedan"
+  ],
+  "price": 24000,
+  "rentPrice": 240,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/950/628/856/2019-nissan-altima-sedan-hd-wallpaper-1472c8e9dc4c9083b0b211ff868c75b8.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/420/1009/154/platinum-nissan-2019-altima-wallpaper-56ca2c1402887de648830b32985a0de4.jpg",
+  "mileage": "34mpg",
+  "topspeed": "130mph",
+  "fuel": "Gasoline",
+  "abs": "No",
+  "cylinder": "2.0 to 2.5litres"
+},
+{
+  "_id": {
+    "$oid": "64e893c8b1e43276411f4800"
+  },
+  "model": "Maxima",
+  "brand": "Nissan",
+  "category": [
+    "Sedan"
+  ],
+  "price": 35000,
+  "rentPrice": 350,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/590/865/96/nissan-maxima-sedan-red-wallpaper-c1d028e74377566b8254875415f28dec.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/660/697/217/5c1caef37d93d-wallpaper-d8362da8e0401c98d05c416ed86244fa.jpg",
+  "mileage": "30mpg",
+  "topspeed": "135mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "3.5litres"
+},
+{
+  "_id": {
+    "$oid": "64e8958eb1e43276411f4802"
+  },
+  "model": "I8",
+  "brand": "Bmw",
+  "category": [
+    "Sports",
+    "Coupe"
+  ],
+  "price": 147500,
+  "rentPrice": 1475,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/341/792/859/bmw-i8-wallpaper-68163c9a1fdc3749cef01942e2491bc0.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/855/199/665/bmw-i8-car-vehicle-electric-car-wallpaper-c8a64c3aef0c87d9cea099923219ebe0.jpg",
+  "mileage": "27mpg",
+  "topspeed": "160mph",
+  "fuel": "Electric + Gasoline",
+  "abs": "Yes",
+  "cylinder": "1.5litres + Electric motor"
+},
+{
+  "_id": {
+    "$oid": "64e9f91113410d91f2de4c64"
+  },
+  "model": "X5",
+  "brand": "Bmw",
+  "category": [
+    "Suv"
+  ],
+  "price": 60000,
+  "rentPrice": 600,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/176/405/271/bmw-bmw-2015-f15-wallpaper-4b165c4da3c15ff915548b89fd5c9cf0.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/397/350/329/bmw-concept-x5-edrive-car-cool-bmw-wallpaper-c8d6dc3a5ffc77d9def0699282599b70.jpg",
+  "mileage": "25mpg",
+  "topspeed": "155mph",
+  "fuel": "Hybrid",
+  "abs": "Yes",
+  "cylinder": "2.0 to 4.4litres"
+},
+{
+  "_id": {
+    "$oid": "64e9fc0b13410d91f2de4c66"
+  },
+  "model": "Z4",
+  "brand": "Bmw",
+  "category": [
+    "Sports",
+    "Cabrio"
+  ],
+  "price": 50000,
+  "rentPrice": 500,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/719/911/627/grey-bmw-roadster-front-view-bmw-z4-hd-wallpaper-ceef86c20e160ec29a14dba9adbcef4e.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/830/363/757/grey-bmw-roadster-double-bmw-z4-hd-wallpaper-5edfc6f24ed69ed27ac43bb9fdbcff9e.jpg",
+  "mileage": "30mpg",
+  "topspeed": "155mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "2.0 to 3.0litres"
+},
+{
+  "_id": {
+    "$oid": "64e9fecf13410d91f2de4c68"
+  },
+  "model": "G12",
+  "brand": "Bmw",
+  "category": [
+    "Sedan",
+    "Cabrio"
+  ],
+  "price": 87800,
+  "rentPrice": 870,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/110/969/155/bmw-sedan-front-view-g12-7-hd-wallpaper-aaac8f9defeb27eb2b57fa14a8d5a5b6.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/168/1012/950/bmw-bmw-7-series-car-luxury-car-red-car-hd-wallpaper-ea2c1fcd0f6b57cb2bc76a440895d5e6.jpg",
+  "mileage": "28mpg",
+  "topspeed": "155mph",
+  "fuel": "Hybrid",
+  "abs": "Yes",
+  "cylinder": "3.0 to 6.6litres"
+},
+{
+  "_id": {
+    "$oid": "64ea006513410d91f2de4c6a"
+  },
+  "model": "GT500",
+  "brand": "Ford",
+  "category": [
+    "Coupe",
+    "Sports"
+  ],
+  "price": 70000,
+  "rentPrice": 700,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/898/923/696/machine-mustang-ford-shelby-wallpaper-e36a534af855ec8d88428e33c1d8e281.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/898/923/696/machine-mustang-ford-shelby-wallpaper-e36a534af855ec8d88428e33c1d8e281.jpg",
+  "mileage": "18mpg",
+  "topspeed": "190mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "5.2litres"
+},
+{
+  "_id": {
+    "$oid": "64ea013c13410d91f2de4c6c"
+  },
+  "model": "GT350",
+  "brand": "Ford",
+  "category": [
+    "Sports",
+    "Coupe"
+  ],
+  "price": 60000,
+  "rentPrice": 600,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/744/905/203/ford-shelby-mustang-4k-wallpaper-68769d2810c0cc28806c913e1802f44a.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/91/697/81/shelby-gt350-2016-ford-mustang-wallpaper-c30e2b2c13b8628aa16bfa52b1d98651.jpg",
+  "mileage": "21mpg",
+  "topspeed": "180mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "5.2litres"
+},
+{
+  "_id": {
+    "$oid": "64ea046d13410d91f2de4c6e"
+  },
+  "model": "Explorer",
+  "brand": "Ford",
+  "category": [
+    "Suv"
+  ],
+  "price": 32000,
+  "rentPrice": 320,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/580/320/885/ford-explorer-wallpaper-d9c0d8bd313a0dfb669788ffe041c6fd.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/711/439/778/ford-explorer-car-wallpaper-091038fdc15a3d6b6697088f20b196ad.jpg",
+  "mileage": "28mpg",
+  "topspeed": "130mph",
+  "fuel": "Hybrid",
+  "abs": "Yes",
+  "cylinder": "2.0 to 3.0litres"
+},
+{
+  "_id": {
+    "$oid": "64ea04fe13410d91f2de4c70"
+  },
+  "model": "Fusion",
+  "brand": "Ford",
+  "category": [
+    "Sedan"
+  ],
+  "price": 24000,
+  "rentPrice": 240,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/907/880/887/2013-ford-fusion-energi-wallpaper-1c168e8b25c8fd461c3c2369efb06850.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/3/110/539/2016-ford-fusion-energi-wallpaper-33be2ca73ca71e45d10d5e617184ce26.jpg",
+  "mileage": "27mpg",
+  "topspeed": "130mph",
+  "fuel": "Hybrid",
+  "abs": "Yes",
+  "cylinder": "1.5 to 2.0litres"
+},
+{
+  "_id": {
+    "$oid": "64ea06d813410d91f2de4c72"
+  },
+  "model": "Camaro",
+  "brand": "Chevrolet",
+  "category": [
+    "Sports",
+    "Coupe"
+  ],
+  "price": 63000,
+  "rentPrice": 630,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/732/894/565/2011-camaro-carbon-chevrolet-wallpaper-4b798d0af4f4a7436cb2ddf9387eb87d.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/478/387/745/black-chevrolet-camaro-zl1-wallpaper-6281f2f04de6ae4b7ae812f5b05809b2.jpg",
+  "mileage": "20mpg",
+  "topspeed": "198mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "6.2litres"
+},
+{
+  "_id": {
+    "$oid": "64ea07ac13410d91f2de4c74"
+  },
+  "model": "Camaro SS",
+  "brand": "Chevrolet",
+  "category": [
+    "Coupe",
+    "Sports"
+  ],
+  "price": 43000,
+  "rentPrice": 430,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/883/322/372/1969-396-camaro-ss-cars-wallpaper-025901f5c77aa180f53f8bc5c219c200.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/299/756/912/1969-396-camaro-ss-cars-wallpaper-f2797185579ae1a0050f2bc5624932e0.jpg",
+  "mileage": "24mpg",
+  "topspeed": "180mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "6.2litres"
+},
+{
+  "_id": {
+    "$oid": "64ea094d13410d91f2de4c76"
+  },
+  "model": "Stingray",
+  "brand": "Chevrolet",
+  "category": [
+    "Sports"
+  ],
+  "price": 60000,
+  "rentPrice": 600,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/652/874/473/chevrolet-chevrolet-corvette-c8-car-chevrolet-corvette-red-car-hd-wallpaper-39601e4aac02e69a209f959599173a2b.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/372/24/982/corvette-chevrolet-lights-stingray-sports-car-hd-wallpaper-e9b09e4a2c52c6baf0afc5057907ca5b.jpg",
+  "mileage": "27mpg",
+  "topspeed": "194mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "6.2litres"
+},
+{
+  "_id": {
+    "$oid": "64ea0ad113410d91f2de4c78"
+  },
+  "model": "Corvette",
+  "brand": "Chevrolet",
+  "category": [
+    "Sports",
+    "Coupe"
+  ],
+  "price": 121000,
+  "rentPrice": 1210,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/803/911/736/chevrolet-chevrolet-corvette-zr1-black-car-car-wallpaper-e95088cd71ea8d7bb687b88f7081c65d.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/255/286/532/2018-cars-4k-chevrolet-corvette-zr1-wallpaper-647ca7a2eece7153b00110d458f0be1a.jpg",
+  "mileage": "19mpg",
+  "topspeed": "214mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "6.2litre"
+},
+{
+  "_id": {
+    "$oid": "64ea0c9113410d91f2de4c7a"
+  },
+  "model": "TT Roadster",
+  "brand": "Audi",
+  "category": [
+    "Coupe",
+    "Covertible"
+  ],
+  "price": 45000,
+  "rentPrice": 450,
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/134/188/1004/audi-tt-rs-beijing-motor-show-2016-silver-auto-china-2016-wallpaper-4eb0dc2371ec4f0857adf05726488d71.jpg",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/256/631/605/car-audi-tt-rs-roadster-quattro-wallpaper-9b26dc4d03319f79d5e4eb69adcc0ce0.jpg",
+  "mileage": "30mpg",
+  "topspeed": "155mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "2.0litres"
+},
+{
+  "_id": {
+    "$oid": "64ea0d4113410d91f2de4c7c"
+  },
+  "model": "TT RS",
+  "brand": "Audi",
+  "category": [
+    "Sports"
+  ],
+  "price": 70000,
+  "rentPrice": 700,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/384/728/993/2018-audi-tt-rs-4k-wallpaper-5bcb783a13dfa2e3921f5328b89b1c3c.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/813/177/259/4k-audi-tt-rs-coupe-2018-wallpaper-0bab882a93bfc2b3824f430878fbfcfc.jpg",
+  "mileage": "20mpg",
+  "topspeed": "180mph",
+  "fuel": "Gasoline",
+  "abs": "Yes",
+  "cylinder": "3.0litres"
+},
+{
+  "_id": {
+    "$oid": "64ea0df013410d91f2de4c7e"
+  },
+  "model": "Q7",
+  "brand": "Audi",
+  "category": [
+    "Suv"
+  ],
+  "price": 54000,
+  "rentPrice": 540,
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/788/514/382/2011-audi-a-kahn-q7-wallpaper-736a43cab8457c9de882dea38198a2f1.jpg",
+  "photo": "https://r4.wallpaperflare.com/wallpaper/825/147/811/audi-q7-tdi-quattro-wallpaper-4f4c826f2d09b598772d1254a45390f0.jpg",
+  "mileage": "23mpg",
+  "topspeed": "155mph",
+  "fuel": "Hybrid",
+  "abs": "Yes",
+  "cylinder": "2.0 to 3.0litres"
+},
+{
+  "_id": {
+    "$oid": "64ea0ead13410d91f2de4c80"
+  },
+  "model": "A7",
+  "brand": "Audi",
+  "category": [
+    "sedan"
+  ],
+  "price": 50000,
+  "rentPrice": 500,
+  "photo": "https://r4.wallpaperflare.com/wallpaper/156/808/836/audi-a7-sportback-quattro-2017-4k-wallpaper-e6da9c248218fd1688e3bb02584acde4.jpg",
+  "altPhoto": "https://r4.wallpaperflare.com/wallpaper/786/482/508/audi-a7-sportback-4k-2018-cars-wallpaper-352faf1e0b413b9fab700b8f47b518af.jpg",
+  "mileage": "30mpg",
+  "topspeed": "165mph",
+  "fuel": "Hybrid",
+  "abs": "Yes",
+  "cylinder": "3.0 to 3.5litres"
+}]
