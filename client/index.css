@@ -1,0 +1,343 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: .5em;
+}
+
+.formAlt {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    gap: .75em;
+    background-color: rgba(0, 0, 0, 0.1);
+    -webkit-backdrop-filter: blur(15px);
+    backdrop-filter: blur(15px);
+    padding: 2em;
+    border-radius: 1em;
+}
+
+input:focus {
+    outline: none;
+}
+
+.input {
+    background: none;
+    border: none;
+    color: #000;
+    background-color: rgba(255, 255, 255, 0.25);
+    padding: .5em 1em;
+    font-size: 1.25em;
+    width: 100%;
+    height: 75px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    background-color: #efefef;
+}
+
+.inputAlt {
+    background: none;
+    border: none;
+    color: #000;
+    padding: .5em 1em;
+    font-size: 1.25em;
+    width: 100%;
+    height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    background-color: rgba(255, 255, 255, 0.1);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    border-radius: .25em;
+}
+
+.input::placeholder {
+    color: #000;
+    font-weight: 100;
+}
+
+.inputAlt::placeholder {
+    color: #000;
+    font-weight: 100;
+}
+
+.textarea::placeholder {
+    color: #000;
+    font-weight: 100;
+}
+
+.textarea {
+    background: none;
+    border: none;
+    color: #000;
+    padding: 1em;
+    font-size: 1.25em;
+    background-color: #efefef;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.button {
+    border: none;
+    width: 300px;
+    height: 65px;
+    color: #fff;
+    background-color: #000;
+    align-self: flex-end;
+    font-size: 1.25em;
+    font-weight: 100;
+    cursor: pointer;
+}
+
+.buttonAlt {
+    border: none;
+    width: 150px;
+    height: 50px;
+    color: #000;
+    background-color: #fff;
+    align-self: flex-end;
+    font-size: 1.25em;
+    font-weight: 100;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    cursor: pointer;
+    border-radius: .25em;
+}
+
+.span {
+    padding: .5em 0em;
+    font-size: 1.25em;
+}
+
+.half {
+    width: 50%;
+    background: none;
+    border: none;
+    color: #000;
+    padding: .5em 1em;
+    font-size: 1.25em;
+    height: 55px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    background-color: rgba(255, 255, 255, 0.05);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    border-radius: .25em;
+}
+
+.full {
+    width: 100%;
+    background: none;
+    border: none;
+    color: #000;
+    padding: .5em 1em;
+    height: 55px;
+    font-size: 1.25em;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    background-color: rgba(255, 255, 255, 0.05);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    border-radius: .25em;
+}
+
+.half::placeholder {
+    color: #000;
+}
+
+.full::placeholder {
+    color: #000;
+}
+
+.card {
+    background: none;
+    background-color: #fff;
+    border: none;
+    color: #000;
+    padding: .5em 1em;
+    font-size: 1.25em;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 8px;
+}
+
+.card:focus {
+    outline: none;
+}
+
+.formBx {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.formDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.nameSpan {
+    font-family: "kaushan script";
+    font-size: 3em;
+}
+
+.brandSpan {
+    font-size: 1.25em;
+}
+
+.divDiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.imps {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1em;
+}
+
+.imp {
+    display: flex;
+    flex-direction: column;
+}
+
+.impAlt {
+    display: flex;
+    gap: 1em;
+}
+
+.formDiv input {
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+    font-size: 1.25em;
+    padding-bottom: .5em;
+    background-color: none;
+}
+
+.impAlt input {
+    width: 75px;
+}
+
+.imp input {
+    width: 150px;
+}
+
+.address {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+    padding: 2em;
+    border-radius: 1em;
+}
+
+.address div {
+    display: flex;
+    gap: 0.5em;
+}
+
+.title {
+    font-size: 7.5em;
+    padding-top: .25em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.radio {
+    margin-top: 1em;
+}
+
+.confirmWrapper {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    background-image: linear-gradient(to top, #d5d4d0 0%, #d5d4d0 1%, #eeeeec 31%, #efeeec 75%, #e9e9e7 100%);
+}
+
+.confirmBx {
+    width: 500px;
+    background-color: #fff;
+    padding: 2em 2em 1em 2em;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    z-index: 10;
+}
+
+.confirmImg {
+    width: 100%;
+    height: 450px;
+}
+
+.confirmTxt {
+    display: flex;
+    flex-direction: column;
+}
+
+.confirmImg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.confirmDiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.confirmStamp {
+    display: flex;
+    flex-direction: column;
+    background-color: #000;
+    color: #fff;
+    padding: .5em 1em;
+    text-align: end;
+}
+
+.confirmStamp span:nth-child(1) {
+    text-transform: uppercase;
+}
+
+.dropdownWrapper {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    gap: 2em;
+    padding: 5em 3em 3em 3em;
+}
+
+.dropdown {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    flex: 5;
+    border-radius: 1em;
+    padding: 2em;
+    display: flex;
+    align-items: end;
+}
+
+.dropdownLeft {
+    background-image: url(./src/assets/images/inventoryCar.jpg);
+}
+
+.dropdownRight {
+    background-image: url(./src/assets/images/premiumCar.jpg);
+    transform: translateY(15px)
+}
+
+.dropdownBx {
+    background-color: #fff;
+    width: 500px;
+    padding: 1em 2em;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    border-radius: 1em;
+}
+
+.dropdownBx h4 {
+    font-size: 1.25em;
+    text-transform: uppercase;
+}
